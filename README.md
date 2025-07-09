@@ -23,9 +23,11 @@ I’m currently learning **Node.js** - 👨‍💻 All of my projects are availa
 - 💬 Ask me about **Angular ,React** - 📫 How to reach me
 **ym0998682@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"></p>
-
+<img   
+  src="[https://angular.io/assets/images/logos/angular/angular.svg](https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif)"
+  alt="angular"
+  width="40"
+  height="40"/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
