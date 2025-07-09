@@ -26,8 +26,6 @@ I’m currently learning **Node.js** - 👨‍💻 All of my projects are availa
 <img
       src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif"
       alt="angular"
-      width="40"
-      height="40"
     />
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
