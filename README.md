@@ -24,7 +24,7 @@ I’m currently learning **Node.js** - 👨‍💻 All of my projects are availa
 **ym0998682@gmail.com**
 
 <img   
-  src="[https://angular.io/assets/images/logos/angular/angular.svg](https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif)"
+  src="[[https://angular.io/assets/images/logos/angular/angular.svg](https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif)](https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif)"
   alt="angular"
   width="40"
   height="40"/>
